@@ -1,4 +1,4 @@
- 👋 Hi, I’m Lilian! I'm currently a senior at UC Berkeley pursuing a degree in Data Science with a minor in Education. 
+🤠 Hi, I’m Lilian! I'm currently a senior at UC Berkeley pursuing a degree in Data Science with a minor in Education. 
 
 In my past lives, I was: 
 
